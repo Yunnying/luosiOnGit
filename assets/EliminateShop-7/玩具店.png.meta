@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "91fba4ce-282a-4519-ac48-494c8855b36a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "玩具店": {
+      "ver": "1.0.6",
+      "uuid": "a646bd10-006b-490d-bf01-a89efec87bff",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "91fba4ce-282a-4519-ac48-494c8855b36a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 53,
+      "trimY": 62,
+      "width": 400,
+      "height": 283,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

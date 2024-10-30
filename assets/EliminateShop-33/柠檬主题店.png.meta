@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "933bfb2d-e933-49e8-9db1-018050678f5e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "柠檬主题店": {
+      "ver": "1.0.6",
+      "uuid": "ff4b9863-bd30-4654-8ab2-31c52662568c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "933bfb2d-e933-49e8-9db1-018050678f5e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -1,
+      "trimX": 80,
+      "trimY": 59,
+      "width": 346,
+      "height": 291,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

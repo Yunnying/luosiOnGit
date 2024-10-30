@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ded47eff-7143-44d9-847b-2477039f7b57",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "精致食品店": {
+      "ver": "1.0.6",
+      "uuid": "708f8bed-6fcf-4ada-87d2-ed863f6ea3ef",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ded47eff-7143-44d9-847b-2477039f7b57",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 57,
+      "trimY": 49,
+      "width": 391,
+      "height": 310,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

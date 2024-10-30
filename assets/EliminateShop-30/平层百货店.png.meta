@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5d05443e-d6a3-4e32-b676-5052f2ae64af",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "平层百货店": {
+      "ver": "1.0.6",
+      "uuid": "ee1cd494-930d-4904-a4d1-562bccea8afd",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5d05443e-d6a3-4e32-b676-5052f2ae64af",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -1,
+      "trimX": 67,
+      "trimY": 44,
+      "width": 372,
+      "height": 321,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

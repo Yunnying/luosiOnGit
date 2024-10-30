@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "cef985db-874c-409c-9f7d-381b6af94532",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "石油化工厂": {
+      "ver": "1.0.6",
+      "uuid": "3ec3cec8-d10c-4c99-b0e5-23fc388a7434",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "cef985db-874c-409c-9f7d-381b6af94532",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -9.5,
+      "offsetY": 20.5,
+      "trimX": 51,
+      "trimY": 49,
+      "width": 384,
+      "height": 268,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

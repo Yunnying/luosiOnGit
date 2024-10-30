@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8271ea3a-1e20-4dba-b9c8-db74ce5ea23f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "寿喜烧店": {
+      "ver": "1.0.6",
+      "uuid": "ba6c48e0-2cb7-4e7c-a770-d78f3aa513e1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8271ea3a-1e20-4dba-b9c8-db74ce5ea23f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 101,
+      "trimY": 77,
+      "width": 304,
+      "height": 254,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

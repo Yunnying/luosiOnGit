@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "79dc1405-afe3-4bf0-a44d-c0c13cf9c2c6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "蛋糕店": {
+      "ver": "1.0.6",
+      "uuid": "7f024406-9637-42af-a11d-f66524a8b636",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "79dc1405-afe3-4bf0-a44d-c0c13cf9c2c6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -1,
+      "trimX": 79,
+      "trimY": 53,
+      "width": 348,
+      "height": 303,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

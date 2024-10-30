@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e5666b27-298c-48b5-8792-5c7a51cfe34a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "商务大厦": {
+      "ver": "1.0.6",
+      "uuid": "64972843-50f8-42f4-8d1b-4f309718a83b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e5666b27-298c-48b5-8792-5c7a51cfe34a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 76,
+      "trimY": 93,
+      "width": 353,
+      "height": 222,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

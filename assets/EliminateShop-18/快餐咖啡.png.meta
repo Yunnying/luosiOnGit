@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a96b9adc-62b3-47e0-a0ea-c4bcb7b4cd00",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "快餐咖啡": {
+      "ver": "1.0.6",
+      "uuid": "c348e1ff-8a00-4c84-9a14-93d52bb3ab23",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a96b9adc-62b3-47e0-a0ea-c4bcb7b4cd00",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 53,
+      "trimY": 59,
+      "width": 399,
+      "height": 291,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

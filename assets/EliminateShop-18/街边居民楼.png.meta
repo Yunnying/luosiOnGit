@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "3152b089-5d17-4268-9c22-bdcc7aa6290a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "街边居民楼": {
+      "ver": "1.0.6",
+      "uuid": "034bf7ae-d96c-4ed5-8e60-7dc8d583a097",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "3152b089-5d17-4268-9c22-bdcc7aa6290a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 89,
+      "trimY": 78,
+      "width": 327,
+      "height": 253,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

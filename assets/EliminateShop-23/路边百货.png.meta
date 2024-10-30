@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "bc7a8668-3ac6-4282-8343-d47f2adb7b26",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "路边百货": {
+      "ver": "1.0.6",
+      "uuid": "93286bc6-09ec-49a1-a398-442f6fbb292a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "bc7a8668-3ac6-4282-8343-d47f2adb7b26",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 92,
+      "trimY": 90,
+      "width": 321,
+      "height": 229,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

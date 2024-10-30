@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "333e3af5-5bb3-4a81-996a-4abcde9506dd",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "林中小店": {
+      "ver": "1.0.6",
+      "uuid": "21a46e0b-792e-4421-9dac-edaa32418cb8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "333e3af5-5bb3-4a81-996a-4abcde9506dd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 75,
+      "trimY": 56,
+      "width": 355,
+      "height": 297,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

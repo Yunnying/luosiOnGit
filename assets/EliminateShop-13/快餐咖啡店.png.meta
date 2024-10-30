@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ac29c76f-0020-4a20-911e-a229dc648f4d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "快餐咖啡店": {
+      "ver": "1.0.6",
+      "uuid": "eb6dda07-6fd8-47d1-845f-148f8dc012aa",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ac29c76f-0020-4a20-911e-a229dc648f4d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 78,
+      "trimY": 60,
+      "width": 349,
+      "height": 289,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

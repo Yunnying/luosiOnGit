@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7c1abbf9-c166-48a3-9eeb-e6b99ac8a165",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "温馨烧烤店": {
+      "ver": "1.0.6",
+      "uuid": "18ac203c-7e47-4c98-a312-067d9bef258b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7c1abbf9-c166-48a3-9eeb-e6b99ac8a165",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 78,
+      "trimY": 47,
+      "width": 349,
+      "height": 314,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

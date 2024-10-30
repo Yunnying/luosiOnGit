@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2d12bf1c-7e01-4f9b-a70b-5c08cfbe3726",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "闹区百货店": {
+      "ver": "1.0.6",
+      "uuid": "fc1ad67b-c8c3-4a02-a4d4-84df812c56a8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2d12bf1c-7e01-4f9b-a70b-5c08cfbe3726",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 18.5,
+      "offsetY": 12,
+      "trimX": 103,
+      "trimY": 57,
+      "width": 336,
+      "height": 269,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "029b2e93-fdb6-4db3-83f5-dc4eca90280d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "消防厅": {
+      "ver": "1.0.6",
+      "uuid": "99669c51-0462-4057-94bd-29e02a940914",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "029b2e93-fdb6-4db3-83f5-dc4eca90280d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 91,
+      "trimY": 69,
+      "width": 323,
+      "height": 270,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

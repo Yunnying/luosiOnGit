@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e4f348df-1042-4123-a41e-a88c554de7d5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "绿色食品店": {
+      "ver": "1.0.6",
+      "uuid": "d97be3fe-b5ad-4b9e-987f-0802e0bd4d16",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e4f348df-1042-4123-a41e-a88c554de7d5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 73,
+      "trimY": 56,
+      "width": 359,
+      "height": 296,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

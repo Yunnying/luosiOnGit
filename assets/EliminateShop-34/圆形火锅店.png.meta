@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "48655b01-41c3-474e-bb44-616c8d7c9b69",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "圆形火锅店": {
+      "ver": "1.0.6",
+      "uuid": "391b4def-2b35-48e6-b9d6-8e6b368e41fb",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "48655b01-41c3-474e-bb44-616c8d7c9b69",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 66,
+      "trimY": 50,
+      "width": 373,
+      "height": 307,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

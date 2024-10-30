@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6e75dde4-5e0a-488a-ab40-71459bf0d91e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "度假村小铺": {
+      "ver": "1.0.6",
+      "uuid": "9101fcd2-7279-44ec-92d3-47b98c0b510f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6e75dde4-5e0a-488a-ab40-71459bf0d91e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 93,
+      "trimY": 58,
+      "width": 319,
+      "height": 292,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

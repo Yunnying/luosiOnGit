@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "68757b08-f1ca-40b4-8350-f0e4998e5acd",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "体育商店": {
+      "ver": "1.0.6",
+      "uuid": "1692a370-f052-49f9-904e-f41be87dbe16",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "68757b08-f1ca-40b4-8350-f0e4998e5acd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 113,
+      "trimY": 82,
+      "width": 280,
+      "height": 244,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2be20b77-9e15-4485-b445-53d5a280354a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "双层别墅": {
+      "ver": "1.0.6",
+      "uuid": "a62ac82f-9b83-49db-bc04-431cde210ff6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2be20b77-9e15-4485-b445-53d5a280354a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 46,
+      "trimY": 43,
+      "width": 413,
+      "height": 321,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

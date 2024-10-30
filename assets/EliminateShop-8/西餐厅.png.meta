@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "06afc968-0ba5-475d-9b50-4b9b57d2f6d8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "西餐厅": {
+      "ver": "1.0.6",
+      "uuid": "322a5f9a-4636-492c-8108-9a9d1acb422b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "06afc968-0ba5-475d-9b50-4b9b57d2f6d8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 53,
+      "trimY": 66,
+      "width": 399,
+      "height": 276,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

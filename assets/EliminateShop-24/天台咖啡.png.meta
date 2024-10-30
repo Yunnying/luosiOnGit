@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2699ecb5-ffd5-4868-919c-98d2a87f7ae3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "天台咖啡": {
+      "ver": "1.0.6",
+      "uuid": "cbc283bd-0248-411b-9cbe-84d81918e929",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2699ecb5-ffd5-4868-919c-98d2a87f7ae3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 63,
+      "trimY": 56,
+      "width": 379,
+      "height": 295,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

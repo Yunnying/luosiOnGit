@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "cbc686c1-2b9f-4c3c-a616-b3bf854227a3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "棕色咖啡厅": {
+      "ver": "1.0.6",
+      "uuid": "4e7cacf5-4613-4bd2-9816-df8d1c4723f5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "cbc686c1-2b9f-4c3c-a616-b3bf854227a3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -13.5,
+      "offsetY": -0.5,
+      "trimX": 61,
+      "trimY": 48,
+      "width": 356,
+      "height": 312,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

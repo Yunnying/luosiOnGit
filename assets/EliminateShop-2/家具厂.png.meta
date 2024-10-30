@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7c94e188-2d8c-4a73-ba7e-37cd5e6228e4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "家具厂": {
+      "ver": "1.0.6",
+      "uuid": "ff00b78c-9e98-4301-b48a-edaf362e56e8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7c94e188-2d8c-4a73-ba7e-37cd5e6228e4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 65,
+      "trimY": 64,
+      "width": 376,
+      "height": 280,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

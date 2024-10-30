@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6c1bf2b5-ea98-420a-827b-06c10183aa67",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "拉面主题店": {
+      "ver": "1.0.6",
+      "uuid": "2765e4ba-97be-40a1-8d70-d6feb0693f17",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6c1bf2b5-ea98-420a-827b-06c10183aa67",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 69,
+      "trimY": 52,
+      "width": 367,
+      "height": 304,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

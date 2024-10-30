@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "94892d21-9bda-4fce-946c-a7223cd6135e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "甜甜圈店": {
+      "ver": "1.0.6",
+      "uuid": "2d018d8c-18ff-4a82-a2f5-aeb8119f1a14",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "94892d21-9bda-4fce-946c-a7223cd6135e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 72,
+      "trimY": 60,
+      "width": 362,
+      "height": 288,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

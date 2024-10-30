@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e70bbd46-d028-4f18-ab94-64a76710d4c6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "日式双层楼": {
+      "ver": "1.0.6",
+      "uuid": "ab864119-1619-4556-a33d-32aa659c68a9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e70bbd46-d028-4f18-ab94-64a76710d4c6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 45,
+      "trimY": 40,
+      "width": 415,
+      "height": 328,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

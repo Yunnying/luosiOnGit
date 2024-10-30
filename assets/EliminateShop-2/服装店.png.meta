@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c45af41e-4fb5-467c-83a4-c73c40cd7e6a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "服装店": {
+      "ver": "1.0.6",
+      "uuid": "63d72887-7da6-4b3f-8d1b-4db3faa41394",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c45af41e-4fb5-467c-83a4-c73c40cd7e6a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 111,
+      "trimY": 71,
+      "width": 283,
+      "height": 267,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

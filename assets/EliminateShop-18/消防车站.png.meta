@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "974cd0ea-bc45-4034-9a41-810837a721b0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "消防车站": {
+      "ver": "1.0.6",
+      "uuid": "3067f35a-4b21-49fe-b34f-503075d0ed71",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "974cd0ea-bc45-4034-9a41-810837a721b0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 0,
+      "trimX": 45,
+      "trimY": 44,
+      "width": 417,
+      "height": 319,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

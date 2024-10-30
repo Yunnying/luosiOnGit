@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d089385e-3157-4a02-b381-2e7994e1a748",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "宠物医院": {
+      "ver": "1.0.6",
+      "uuid": "7c5b673a-5517-4a3f-8c98-359de4faf2cd",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d089385e-3157-4a02-b381-2e7994e1a748",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 504,
+      "height": 407,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

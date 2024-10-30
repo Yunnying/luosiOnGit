@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5f3de476-9814-4dbf-81ae-c2f24507be86",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "L形居民楼": {
+      "ver": "1.0.6",
+      "uuid": "0485e589-6e73-48ee-9dc7-01cc3d1779ad",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5f3de476-9814-4dbf-81ae-c2f24507be86",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -1,
+      "trimX": 114,
+      "trimY": 56,
+      "width": 278,
+      "height": 297,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2727773a-ea36-4a84-926d-e811ec87ea07",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "橘色双层店": {
+      "ver": "1.0.6",
+      "uuid": "9a50a2a5-1b13-4301-b575-d10f4186fbcd",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2727773a-ea36-4a84-926d-e811ec87ea07",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -1,
+      "trimX": 101,
+      "trimY": 81,
+      "width": 304,
+      "height": 247,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

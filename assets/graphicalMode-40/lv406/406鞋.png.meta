@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "42f553d0-c5fe-413f-afea-666d09d5b638",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 687,
+  "height": 346,
+  "platformSettings": {},
+  "subMetas": {
+    "406鞋": {
+      "ver": "1.0.6",
+      "uuid": "c99bc731-4398-4d03-a93b-e5f2c4405624",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "42f553d0-c5fe-413f-afea-666d09d5b638",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 687,
+      "height": 346,
+      "rawWidth": 687,
+      "rawHeight": 346,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

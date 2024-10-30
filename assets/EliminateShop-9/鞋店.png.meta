@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "de5d3afb-fda9-42ca-b5cb-347829bf61d7",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "鞋店": {
+      "ver": "1.0.6",
+      "uuid": "50941f71-33ad-468d-8d33-624447652692",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "de5d3afb-fda9-42ca-b5cb-347829bf61d7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 80,
+      "trimY": 71,
+      "width": 346,
+      "height": 265,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

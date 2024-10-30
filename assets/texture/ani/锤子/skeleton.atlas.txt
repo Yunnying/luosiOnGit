@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 385,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz113_ (1)
+  rotate: false
+  xy: 197, 2
+  size: 159, 47
+  orig: 206, 117
+  offset: 33, 30
+  index: -1
+bz113_ (2)
+  rotate: false
+  xy: 204, 211
+  size: 179, 49
+  orig: 206, 117
+  offset: 20, 27
+  index: -1
+bz113_ (3)
+  rotate: false
+  xy: 2, 6
+  size: 193, 65
+  orig: 206, 117
+  offset: 10, 18
+  index: -1
+bz113_ (4)
+  rotate: false
+  xy: 2, 126
+  size: 198, 66
+  orig: 206, 117
+  offset: 4, 17
+  index: -1
+bz113_ (5)
+  rotate: false
+  xy: 2, 194
+  size: 200, 66
+  orig: 206, 117
+  offset: 3, 17
+  index: -1
+bz113_ (6)
+  rotate: false
+  xy: 2, 73
+  size: 196, 51
+  orig: 206, 117
+  offset: 3, 17
+  index: -1
+icon_big_chuizi
+  rotate: true
+  xy: 204, 51
+  size: 158, 168
+  orig: 293, 287
+  offset: 72, 66
+  index: -1

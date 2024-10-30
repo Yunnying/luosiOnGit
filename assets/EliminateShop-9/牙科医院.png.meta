@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "420fda72-2bb8-4433-8d82-b3e81e503c8a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "牙科医院": {
+      "ver": "1.0.6",
+      "uuid": "9a578562-e7ab-45ed-9e73-05417b94829e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "420fda72-2bb8-4433-8d82-b3e81e503c8a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 76,
+      "trimY": 58,
+      "width": 354,
+      "height": 292,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

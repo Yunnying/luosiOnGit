@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f82d6788-b3db-4679-a3bc-7f6bdbe00c8f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "卡布奇诺店": {
+      "ver": "1.0.6",
+      "uuid": "5b8a99a0-97cb-490c-bb75-9fb4cf506ded",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f82d6788-b3db-4679-a3bc-7f6bdbe00c8f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 0.5,
+      "trimX": 79,
+      "trimY": 51,
+      "width": 344,
+      "height": 304,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

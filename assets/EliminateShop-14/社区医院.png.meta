@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1a452f6b-a361-4d8c-a186-4dfcb186c07a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "社区医院": {
+      "ver": "1.0.6",
+      "uuid": "ae7e7621-39a9-4d39-bcf9-9afe7cef5e11",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1a452f6b-a361-4d8c-a186-4dfcb186c07a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 96,
+      "trimY": 58,
+      "width": 314,
+      "height": 291,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

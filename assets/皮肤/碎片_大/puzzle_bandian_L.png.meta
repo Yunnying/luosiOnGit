@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "cfec59f2-4c73-456e-b37a-546a90c53e02",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 189,
+  "height": 188,
+  "platformSettings": {},
+  "subMetas": {
+    "puzzle_bandian_L": {
+      "ver": "1.0.6",
+      "uuid": "ccdc0c7f-ac27-4e87-9493-c4c2e13b24e8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "cfec59f2-4c73-456e-b37a-546a90c53e02",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 188,
+      "height": 188,
+      "rawWidth": 189,
+      "rawHeight": 188,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "740a2317-4072-48b4-9d35-246d6e79ee3e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "紫色百货": {
+      "ver": "1.0.6",
+      "uuid": "a2424e5b-04d5-44fd-a8a5-2edfffc2d2af",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "740a2317-4072-48b4-9d35-246d6e79ee3e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 70,
+      "trimY": 58,
+      "width": 365,
+      "height": 292,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "833ad885-dd16-4433-b61c-4469d9d0c893",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "美式别墅": {
+      "ver": "1.0.6",
+      "uuid": "190a976e-ee45-4ae8-b044-93f71dc9e49e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "833ad885-dd16-4433-b61c-4469d9d0c893",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 76,
+      "trimY": 71,
+      "width": 353,
+      "height": 266,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

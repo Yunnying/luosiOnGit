@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a2d2955a-3af3-40f2-8737-10d97c7e61d4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "奶油蛋糕店": {
+      "ver": "1.0.6",
+      "uuid": "8d83e99f-0183-403b-a6bf-a8c72a64d191",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a2d2955a-3af3-40f2-8737-10d97c7e61d4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 79,
+      "trimY": 66,
+      "width": 347,
+      "height": 276,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1da3a600-f8fd-4237-acc3-8a8bfc4dd11e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "小区餐厅": {
+      "ver": "1.0.6",
+      "uuid": "34dfd5ce-094d-4933-9d34-d138efda22a2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1da3a600-f8fd-4237-acc3-8a8bfc4dd11e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 62,
+      "trimY": 36,
+      "width": 381,
+      "height": 335,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

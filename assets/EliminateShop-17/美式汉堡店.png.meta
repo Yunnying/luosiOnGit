@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0a3b734a-e9b9-41c5-80f8-c02320744da4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "美式汉堡店": {
+      "ver": "1.0.6",
+      "uuid": "5d787e2a-b923-400b-84ee-d2f35345575d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0a3b734a-e9b9-41c5-80f8-c02320744da4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 80,
+      "trimY": 68,
+      "width": 345,
+      "height": 272,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

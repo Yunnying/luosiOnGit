@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0d68f248-68b5-470a-b32f-b94118de31b6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "方形汽修店": {
+      "ver": "1.0.6",
+      "uuid": "d2e82940-9b25-4e70-b6bc-f424eeb16f60",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0d68f248-68b5-470a-b32f-b94118de31b6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -1,
+      "trimX": 52,
+      "trimY": 73,
+      "width": 402,
+      "height": 263,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

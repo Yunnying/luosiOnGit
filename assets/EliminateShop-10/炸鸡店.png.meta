@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "61b18982-ad83-49a3-a57f-aad37be49b4b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "炸鸡店": {
+      "ver": "1.0.6",
+      "uuid": "82575313-9833-40e7-bc00-b286c10d6b6c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "61b18982-ad83-49a3-a57f-aad37be49b4b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 95,
+      "trimY": 62,
+      "width": 315,
+      "height": 284,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

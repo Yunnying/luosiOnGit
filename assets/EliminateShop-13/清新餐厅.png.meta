@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ce914890-2d47-4f7f-82d2-01534565d12b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "清新餐厅": {
+      "ver": "1.0.6",
+      "uuid": "f9809314-fbec-4474-9345-a02007562c88",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ce914890-2d47-4f7f-82d2-01534565d12b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 55,
+      "trimY": 51,
+      "width": 395,
+      "height": 307,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7b6b827c-1fe3-400c-9a0b-739ed76860a5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "方形百货店": {
+      "ver": "1.0.6",
+      "uuid": "1d6f7f1e-8cf6-42e6-a2f6-47f5ed069c12",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7b6b827c-1fe3-400c-9a0b-739ed76860a5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 83,
+      "trimY": 72,
+      "width": 339,
+      "height": 264,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

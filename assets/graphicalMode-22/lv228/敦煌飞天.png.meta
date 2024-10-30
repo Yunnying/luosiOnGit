@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2c7204a4-c83a-4339-aa31-eaa3d6b72667",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 555,
+  "height": 922,
+  "platformSettings": {},
+  "subMetas": {
+    "敦煌飞天": {
+      "ver": "1.0.6",
+      "uuid": "b3c4e0a1-85a5-4047-8485-f75f2d16631d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2c7204a4-c83a-4339-aa31-eaa3d6b72667",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 555,
+      "height": 921,
+      "rawWidth": 555,
+      "rawHeight": 922,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

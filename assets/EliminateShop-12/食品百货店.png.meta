@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e13fd4d3-73ba-4961-b027-c9cdbca59667",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "食品百货店": {
+      "ver": "1.0.6",
+      "uuid": "2f8729f0-f8dd-43d4-bba7-e06236167d47",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e13fd4d3-73ba-4961-b027-c9cdbca59667",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 102,
+      "trimY": 64,
+      "width": 302,
+      "height": 279,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

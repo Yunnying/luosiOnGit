@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "98c9a0c3-dd0d-4b64-b6db-13626b368342",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "橡木休闲吧": {
+      "ver": "1.0.6",
+      "uuid": "dd9ee14c-26b9-49ba-823d-7ea4178dc2f5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "98c9a0c3-dd0d-4b64-b6db-13626b368342",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 62,
+      "trimY": 70,
+      "width": 381,
+      "height": 268,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

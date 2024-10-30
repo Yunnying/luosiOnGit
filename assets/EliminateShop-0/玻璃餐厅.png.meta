@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "52d1d4c0-9e03-473e-810d-89623b524379",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "玻璃餐厅": {
+      "ver": "1.0.6",
+      "uuid": "194f67d1-1d6d-4600-b530-a9b5039bb9eb",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "52d1d4c0-9e03-473e-810d-89623b524379",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -1,
+      "trimX": 71,
+      "trimY": 60,
+      "width": 364,
+      "height": 289,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

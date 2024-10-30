@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6a838fc9-5ddd-4777-ac61-5136f3d96667",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "老社区餐馆": {
+      "ver": "1.0.6",
+      "uuid": "e0578b71-e212-48c8-b44e-d33d1f52efe2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6a838fc9-5ddd-4777-ac61-5136f3d96667",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 24,
+      "offsetY": -6,
+      "trimX": 119,
+      "trimY": 57,
+      "width": 315,
+      "height": 305,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

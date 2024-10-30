@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "706bbb2e-1dbe-4c24-9aef-013f5e5c5f8e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "奶酪顶商店": {
+      "ver": "1.0.6",
+      "uuid": "a2c9a1d1-6c32-4c89-a3b1-369d70d8800a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "706bbb2e-1dbe-4c24-9aef-013f5e5c5f8e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -17,
+      "offsetY": -1,
+      "trimX": 45,
+      "trimY": 53,
+      "width": 381,
+      "height": 303,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

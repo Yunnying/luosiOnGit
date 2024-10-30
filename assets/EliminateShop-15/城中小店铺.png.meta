@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ee7dec64-5ecf-4b0e-800e-552217ef47c1",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "城中小店铺": {
+      "ver": "1.0.6",
+      "uuid": "c1fcbb0d-ba92-4f1b-b084-07f1838f32f8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ee7dec64-5ecf-4b0e-800e-552217ef47c1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 61,
+      "trimY": 82,
+      "width": 383,
+      "height": 245,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

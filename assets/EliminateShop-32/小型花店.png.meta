@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "abdb566b-0937-4b58-b242-718d32d0291e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "小型花店": {
+      "ver": "1.0.6",
+      "uuid": "717a60ea-541f-4782-b0ca-6a27026773d0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "abdb566b-0937-4b58-b242-718d32d0291e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 504,
+      "height": 407,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

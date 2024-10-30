@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c4f69207-4a82-4b58-9b78-7bfa5d659825",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "香水体验店": {
+      "ver": "1.0.6",
+      "uuid": "75efabbb-c111-4b7e-ac26-f6c30979035f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c4f69207-4a82-4b58-9b78-7bfa5d659825",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 76,
+      "trimY": 59,
+      "width": 353,
+      "height": 290,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

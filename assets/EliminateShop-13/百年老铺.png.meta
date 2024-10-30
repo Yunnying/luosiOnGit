@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e41b7474-1613-4362-9513-f652be7c4436",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "百年老铺": {
+      "ver": "1.0.6",
+      "uuid": "69102a96-7b21-4b8c-bb6c-6251f3f4e4da",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e41b7474-1613-4362-9513-f652be7c4436",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 74,
+      "trimY": 50,
+      "width": 357,
+      "height": 308,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

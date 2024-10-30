@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "aa65a958-6ddb-44e8-ba65-c98f3be16393",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "热狗店": {
+      "ver": "1.0.6",
+      "uuid": "ac405c5d-9bca-4cff-9050-78e7d2bb3e39",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "aa65a958-6ddb-44e8-ba65-c98f3be16393",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 104,
+      "trimY": 65,
+      "width": 298,
+      "height": 278,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4ea8ae1b-92e7-45b8-bd6b-33fdfed4550e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "玻璃橱窗店": {
+      "ver": "1.0.6",
+      "uuid": "8c7ed329-b48b-44e4-9da3-d2648c8288a8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4ea8ae1b-92e7-45b8-bd6b-33fdfed4550e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 68,
+      "trimY": 58,
+      "width": 370,
+      "height": 292,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

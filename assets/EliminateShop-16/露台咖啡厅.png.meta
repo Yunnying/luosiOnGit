@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "32954662-cd8d-421a-8be0-4321dbb22f11",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "露台咖啡厅": {
+      "ver": "1.0.6",
+      "uuid": "83ab06d8-9ebb-4758-bd7d-212b5ea5000c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "32954662-cd8d-421a-8be0-4321dbb22f11",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 53,
+      "trimY": 44,
+      "width": 399,
+      "height": 320,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

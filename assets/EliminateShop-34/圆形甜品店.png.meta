@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "fbc68215-5c27-49b2-9d38-6f234aca3f4b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "圆形甜品店": {
+      "ver": "1.0.6",
+      "uuid": "fb70926c-0dcb-4890-ba44-fcfd05cd2ecc",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "fbc68215-5c27-49b2-9d38-6f234aca3f4b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 74,
+      "trimY": 41,
+      "width": 358,
+      "height": 325,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

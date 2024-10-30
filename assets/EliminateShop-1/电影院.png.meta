@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e50e7d0f-a535-42cf-9147-0e34f19d5aed",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "电影院": {
+      "ver": "1.0.6",
+      "uuid": "32ebb339-f32b-4118-bf3a-72771eb112bb",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e50e7d0f-a535-42cf-9147-0e34f19d5aed",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 72,
+      "trimY": 64,
+      "width": 361,
+      "height": 280,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

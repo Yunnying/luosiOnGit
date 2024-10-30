@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7c55618c-2392-4192-b0a3-817b19130129",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "菠萝主题店": {
+      "ver": "1.0.6",
+      "uuid": "e399013c-0d0b-4644-8605-4000a9a99fea",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7c55618c-2392-4192-b0a3-817b19130129",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -1,
+      "trimX": 93,
+      "trimY": 45,
+      "width": 320,
+      "height": 319,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

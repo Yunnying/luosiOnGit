@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"cat","_duration":1.2833333333333334,"wrapMode":2,"curveData":{"paths":{"head":{"props":{"angle":[{"frame":0,"value":8},{"frame":0.6666666666666666,"value":-8},{"frame":1.2833333333333334,"value":8}]}}}}}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1444adac-b358-4870-a277-22fcab6fb463",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "玻璃顶洗车店": {
+      "ver": "1.0.6",
+      "uuid": "f168f119-b7b2-40a7-a603-83cad964810c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1444adac-b358-4870-a277-22fcab6fb463",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 80,
+      "trimY": 55,
+      "width": 345,
+      "height": 298,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

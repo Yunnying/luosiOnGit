@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e3b68ba8-b9a5-43c3-aa74-c61a7ef1b1e6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "小聚餐厅": {
+      "ver": "1.0.6",
+      "uuid": "38e40fc4-8ee3-4b55-a8ff-a9c66200e0aa",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e3b68ba8-b9a5-43c3-aa74-c61a7ef1b1e6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 86,
+      "trimY": 48,
+      "width": 334,
+      "height": 312,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

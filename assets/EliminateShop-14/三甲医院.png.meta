@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "57552317-b9d9-4b78-8f5a-a9fb87ba1a70",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "三甲医院": {
+      "ver": "1.0.6",
+      "uuid": "19ea05ae-212a-4ea6-a0a9-60a76374335b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "57552317-b9d9-4b78-8f5a-a9fb87ba1a70",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 71,
+      "trimY": 53,
+      "width": 363,
+      "height": 302,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "3af4ae41-c5b0-453f-aba7-3c147ddd11b4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 481,
+  "height": 715,
+  "platformSettings": {},
+  "subMetas": {
+    "334长颈鹿 竖直脖子": {
+      "ver": "1.0.6",
+      "uuid": "52ad6778-d121-4bec-b40b-573f353276f3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "3af4ae41-c5b0-453f-aba7-3c147ddd11b4",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 481,
+      "height": 715,
+      "rawWidth": 481,
+      "rawHeight": 715,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

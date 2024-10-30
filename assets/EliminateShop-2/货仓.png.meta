@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "42e7dc9c-7018-40c9-9fd1-073d7b9c5a3d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "货仓": {
+      "ver": "1.0.6",
+      "uuid": "ff36a33c-8bef-49e0-a72a-ea09be938b6d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "42e7dc9c-7018-40c9-9fd1-073d7b9c5a3d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -1,
+      "trimX": 95,
+      "trimY": 71,
+      "width": 316,
+      "height": 267,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

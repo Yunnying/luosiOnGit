@@ -1,0 +1,111 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "worker",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.1666666666666665,
+  "sample": 60,
+  "speed": 0.3,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "dlg": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.5166666666666666,
+              "value": 255
+            },
+            {
+              "frame": 1.6,
+              "value": 0
+            },
+            {
+              "frame": 1.6833333333333333,
+              "value": 255
+            },
+            {
+              "frame": 3,
+              "value": 255
+            },
+            {
+              "frame": 3.1666666666666665,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "dlg/txt": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1.5166666666666666,
+              "value": true
+            },
+            {
+              "frame": 1.6,
+              "value": false
+            }
+          ]
+        }
+      },
+      "dlg/txt2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.5166666666666666,
+              "value": false
+            },
+            {
+              "frame": 1.6,
+              "value": true
+            }
+          ]
+        }
+      },
+      "yan": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": false
+            },
+            {
+              "frame": 0.5,
+              "value": true
+            },
+            {
+              "frame": 1.5166666666666666,
+              "value": false
+            },
+            {
+              "frame": 1.6833333333333333,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

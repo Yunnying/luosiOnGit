@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4c8ba4a3-06a2-47e0-9740-225fdf7ab0e5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "披萨主题店": {
+      "ver": "1.0.6",
+      "uuid": "ed6c2c21-ef48-46f4-b1e9-097ac60ecd87",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4c8ba4a3-06a2-47e0-9740-225fdf7ab0e5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 91,
+      "trimY": 72,
+      "width": 324,
+      "height": 264,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

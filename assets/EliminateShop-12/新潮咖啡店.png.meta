@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1f37e3e2-ce1f-45e2-9276-ec4122497240",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "新潮咖啡店": {
+      "ver": "1.0.6",
+      "uuid": "a354da25-d1d0-4e4b-92d7-4b61f42d0541",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1f37e3e2-ce1f-45e2-9276-ec4122497240",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 78,
+      "trimY": 53,
+      "width": 349,
+      "height": 301,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

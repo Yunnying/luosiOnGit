@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "876b56ec-3736-47db-8f25-91f4dfc1f2d2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "小洋房": {
+      "ver": "1.0.6",
+      "uuid": "1b3a3a9e-fb31-4171-a70b-5fd4c50dab60",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "876b56ec-3736-47db-8f25-91f4dfc1f2d2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 114,
+      "trimY": 44,
+      "width": 278,
+      "height": 319,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

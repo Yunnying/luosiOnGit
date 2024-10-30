@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "aca7fe2c-b89d-43a7-bb19-055f72d29bbb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "旧小区楼": {
+      "ver": "1.0.6",
+      "uuid": "a7f58edf-f5d9-4cf8-a881-6b9768009e03",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "aca7fe2c-b89d-43a7-bb19-055f72d29bbb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 112,
+      "trimY": 45,
+      "width": 281,
+      "height": 319,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

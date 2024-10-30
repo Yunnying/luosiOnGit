@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "95f32b88-cc7d-4ac5-9c8a-e3e50ef6f955",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "绿色餐厅": {
+      "ver": "1.0.6",
+      "uuid": "4703601d-d3c2-4418-9099-c8c403ff52dc",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "95f32b88-cc7d-4ac5-9c8a-e3e50ef6f955",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 57,
+      "trimY": 49,
+      "width": 392,
+      "height": 310,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

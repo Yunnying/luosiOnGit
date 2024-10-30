@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2a5faae3-ecd3-4244-8869-4370491c59c2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "自然风餐厅": {
+      "ver": "1.0.6",
+      "uuid": "cc7f3723-b5e0-4fca-81c8-a7d120af7da9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2a5faae3-ecd3-4244-8869-4370491c59c2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 100,
+      "trimY": 45,
+      "width": 305,
+      "height": 318,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

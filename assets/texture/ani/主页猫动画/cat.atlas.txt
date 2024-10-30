@@ -1,0 +1,55 @@
+
+cat.png
+size: 851,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 709, 92
+  size: 43, 103
+  orig: 45, 105
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 678, 9
+  size: 65, 68
+  orig: 67, 72
+  offset: 1, 2
+  index: -1
+3
+  rotate: false
+  xy: 616, 7
+  size: 60, 70
+  orig: 62, 72
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 304, 351
+  orig: 304, 351
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 355, 4
+  size: 302, 259
+  orig: 302, 260
+  offset: 0, 1
+  index: -1
+lingjie
+  rotate: true
+  xy: 709, 137
+  size: 169, 140
+  orig: 172, 143
+  offset: 1, 2
+  index: -1
+weiba
+  rotate: false
+  xy: 616, 79
+  size: 91, 227
+  orig: 92, 227
+  offset: 1, 0
+  index: -1

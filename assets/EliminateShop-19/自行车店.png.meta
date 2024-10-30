@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2ee580ed-7073-4172-a643-7967aaf3d659",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "自行车店": {
+      "ver": "1.0.6",
+      "uuid": "88201e0b-9f6c-4319-a3f3-37ba9352cb32",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2ee580ed-7073-4172-a643-7967aaf3d659",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 89,
+      "trimY": 86,
+      "width": 328,
+      "height": 236,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

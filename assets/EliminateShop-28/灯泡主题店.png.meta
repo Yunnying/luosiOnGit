@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1aee9ee9-1fc7-403c-9f5a-ccbff8e237a4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "灯泡主题店": {
+      "ver": "1.0.6",
+      "uuid": "65ed738c-cf48-4dcd-ae6f-a3873d580acb",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1aee9ee9-1fc7-403c-9f5a-ccbff8e237a4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 4.5,
+      "trimX": 90,
+      "trimY": 70,
+      "width": 326,
+      "height": 258,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

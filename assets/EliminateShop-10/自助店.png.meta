@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "32202c7c-6a24-4bd3-ae80-78a41614bcfa",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "自助店": {
+      "ver": "1.0.6",
+      "uuid": "752e6ae4-da1f-4b24-bd78-b680c72ba8f0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "32202c7c-6a24-4bd3-ae80-78a41614bcfa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 91,
+      "trimY": 77,
+      "width": 324,
+      "height": 254,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

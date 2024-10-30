@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6adfd6aa-ce0d-4bc3-ac71-ed2ae925b085",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "蓝色百货店": {
+      "ver": "1.0.6",
+      "uuid": "ed39ef4c-8cc5-4b90-9370-0db3e0f77c3d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6adfd6aa-ce0d-4bc3-ac71-ed2ae925b085",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 85,
+      "trimY": 54,
+      "width": 335,
+      "height": 301,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

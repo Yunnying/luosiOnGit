@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "03b8d222-0880-49e3-822c-b226507908ed",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 170,
+  "height": 169,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_big_chanzi": {
+      "ver": "1.0.6",
+      "uuid": "cfeb9508-c1dc-4cc3-99b4-bf37f9a354d6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "03b8d222-0880-49e3-822c-b226507908ed",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 170,
+      "height": 169,
+      "rawWidth": 170,
+      "rawHeight": 169,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

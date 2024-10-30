@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "362f364e-62e1-4103-94f3-b3684ad7b70e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "香肠面包店": {
+      "ver": "1.0.6",
+      "uuid": "ffd67122-e5d9-41ff-8349-8d93803e4513",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "362f364e-62e1-4103-94f3-b3684ad7b70e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 66,
+      "trimY": 74,
+      "width": 374,
+      "height": 260,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

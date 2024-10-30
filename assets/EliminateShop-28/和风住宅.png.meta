@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "eb34d9b6-0e2f-4588-aad2-85ba66b08352",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "和风住宅": {
+      "ver": "1.0.6",
+      "uuid": "28909eda-683b-452c-9d43-3eadf125eaae",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "eb34d9b6-0e2f-4588-aad2-85ba66b08352",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 63,
+      "trimY": 81,
+      "width": 379,
+      "height": 247,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

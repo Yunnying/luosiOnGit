@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c4f4f599-1a2a-4105-a3a4-975dbb2ae472",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "日本街边摊": {
+      "ver": "1.0.6",
+      "uuid": "ea7ed6e2-67e6-4759-a882-ff5479a66f67",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c4f4f599-1a2a-4105-a3a4-975dbb2ae472",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -1,
+      "trimX": 83,
+      "trimY": 56,
+      "width": 340,
+      "height": 297,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "75cdeee0-ec91-4c2d-8aa6-ce1f942d84d2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "日式小餐馆": {
+      "ver": "1.0.6",
+      "uuid": "3ddf1c3c-481a-49c5-befb-0aeb3b824120",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "75cdeee0-ec91-4c2d-8aa6-ce1f942d84d2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 71,
+      "trimY": 61,
+      "width": 363,
+      "height": 286,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

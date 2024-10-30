@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "df462af4-6778-4fb5-be4f-e7b48b52ce83",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "梦幻甜品店": {
+      "ver": "1.0.6",
+      "uuid": "9ef433ee-a14d-44b2-84a5-e7803615ceac",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "df462af4-6778-4fb5-be4f-e7b48b52ce83",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 98,
+      "trimY": 78,
+      "width": 309,
+      "height": 252,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ab4b10f3-54cd-4c45-be53-d8e654414437",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "警察局": {
+      "ver": "1.0.6",
+      "uuid": "7d6d58f1-f28f-430d-bd01-3bc5fd335b7b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ab4b10f3-54cd-4c45-be53-d8e654414437",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -1,
+      "trimX": 98,
+      "trimY": 98,
+      "width": 310,
+      "height": 213,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

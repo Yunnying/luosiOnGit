@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d5803c7a-669f-4993-b404-a34428ec95d8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "现代杂货店": {
+      "ver": "1.0.6",
+      "uuid": "4735ff0b-bbaa-4e08-8629-450e49214579",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d5803c7a-669f-4993-b404-a34428ec95d8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -21,
+      "offsetY": -18.5,
+      "trimX": 63,
+      "trimY": 91,
+      "width": 337,
+      "height": 262,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

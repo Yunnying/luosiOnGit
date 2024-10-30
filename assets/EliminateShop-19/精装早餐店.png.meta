@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b49eb95d-8c5e-4d77-b8be-9afda1cf7ab8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "精装早餐店": {
+      "ver": "1.0.6",
+      "uuid": "bf72aaa3-ba2b-4978-81f1-68b38dd66c57",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b49eb95d-8c5e-4d77-b8be-9afda1cf7ab8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 17.5,
+      "trimX": 63,
+      "trimY": 50,
+      "width": 379,
+      "height": 272,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

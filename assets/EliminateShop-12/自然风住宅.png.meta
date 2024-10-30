@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "65a48a45-b0ed-4326-81aa-2ace2510867d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "自然风住宅": {
+      "ver": "1.0.6",
+      "uuid": "108810f9-7586-47c5-a531-a537166d6e52",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "65a48a45-b0ed-4326-81aa-2ace2510867d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 117,
+      "trimY": 61,
+      "width": 272,
+      "height": 286,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

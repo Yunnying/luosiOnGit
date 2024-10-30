@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "060a41d4-9318-41aa-b31b-0d5244e56ce3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "现代绿植店": {
+      "ver": "1.0.6",
+      "uuid": "45b1e82a-9228-4b6a-9254-e3a7729a183e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "060a41d4-9318-41aa-b31b-0d5244e56ce3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -24.5,
+      "offsetY": -14,
+      "trimX": 60,
+      "trimY": 82,
+      "width": 336,
+      "height": 271,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

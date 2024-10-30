@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "bfb93a51-d053-48f3-a612-16be7f3971cb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "悠闲小平房": {
+      "ver": "1.0.6",
+      "uuid": "2392fb13-60bd-4015-9768-7531d4535623",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "bfb93a51-d053-48f3-a612-16be7f3971cb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 77,
+      "trimY": 46,
+      "width": 351,
+      "height": 316,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

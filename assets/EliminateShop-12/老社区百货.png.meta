@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8b5179e0-cbfd-48e6-9ce2-e9653aa21580",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "老社区百货": {
+      "ver": "1.0.6",
+      "uuid": "b51147f8-0274-47b0-9c28-b8108052f1f9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8b5179e0-cbfd-48e6-9ce2-e9653aa21580",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 13,
+      "offsetY": -4,
+      "trimX": 82,
+      "trimY": 56,
+      "width": 367,
+      "height": 303,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

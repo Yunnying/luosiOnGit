@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b1ab9134-4031-40c4-b489-538fdd3e24d1",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "迷你城堡": {
+      "ver": "1.0.6",
+      "uuid": "a580a479-09d3-4553-aaf2-a3f964afe464",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b1ab9134-4031-40c4-b489-538fdd3e24d1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 11.5,
+      "offsetY": -1,
+      "trimX": 118,
+      "trimY": 54,
+      "width": 292,
+      "height": 301,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

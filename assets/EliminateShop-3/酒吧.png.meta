@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "782e50a5-8979-4c08-a7f0-5c76581c1676",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 505,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "酒吧": {
+      "ver": "1.0.6",
+      "uuid": "84d59e4c-3746-4d40-9fc3-38f720363c6e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "782e50a5-8979-4c08-a7f0-5c76581c1676",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 58,
+      "trimY": 73,
+      "width": 389,
+      "height": 263,
+      "rawWidth": 505,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
